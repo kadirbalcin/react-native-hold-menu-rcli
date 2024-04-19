@@ -171,8 +171,6 @@ const HoldItemComponent = ({
 
         tY =
           bottomTransform > 0 ? -bottomTransform + styleGuide.spacing * 2 : -60;
-
-        console.log(tY);
       }
     }
 
