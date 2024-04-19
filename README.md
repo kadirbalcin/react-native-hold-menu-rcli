@@ -2,7 +2,7 @@
 
 A performant, easy to use hold to open context menu for React Native powered by Reanimated. 🔥
 
-> This package Bu paket, (https://enesozturk.github.io/react-native-hold-menu) geliştirilmiş halidir. Önceki paket sadece "Expo" ile çalışıyordu, bu react-native-cli ile düzgün çalışması için geliştirildi.
+> This package is an improved version of (https://enesozturk.github.io/react-native-hold-menu). The previous package only worked with "Expo", this has been improved to work properly with react-native-cli.
 
 ---
 
